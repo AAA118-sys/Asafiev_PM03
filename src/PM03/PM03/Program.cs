@@ -40,7 +40,33 @@ public class Cheese : IComparable
 
 }
 
+public class MilkFarm
+{
+    int cntProducts;
+    public Cheese[] Products;
 
+    public MilkFarm(int cntProducts)
+    {
+        this.cntProducts = cntProducts;
+        Products = new Cheese[cntProducts];
+    }
+
+    public void Fill()
+    {
+        string brand;
+        string manufacturer;
+        int fatPercentage;
+        for (int i = 0; i < this.cntProducts; i++)
+        {
+            Console.WriteLine("Марка:");
+            brand = Console.ReadLine();
+            Console.WriteLine("Производитель:");
+            manufacturer = Console.ReadLine();
+            Console.WriteLine("Процент жирности:");
+            fatPercentage = Convert.ToInt32(Console.ReadLine());
+            this.Products[i] = new Cheese(brand, manufacturer, fatPercentage);
+        }
+    }
 
     public void Sort()
     {
@@ -56,6 +82,19 @@ public class Cheese : IComparable
                 file.WriteLine(c.ToString());
             }
         }
+    }
+}
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Количество продуктов:");
+        int cntProducts = Convert.ToInt32(Console.ReadLine());
+        MilkFarm milkFarm = new MilkFarm(cntProducts);
+        milkFarm.Fill();
+        milkFarm.Sort();
+        milkFarm.PrintToFile();
     }
 }
 
