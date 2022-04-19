@@ -1,0 +1,13 @@
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\obj\Debug\netcoreapp3.1\PM03.csprojAssemblyReference.cache
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\obj\Debug\netcoreapp3.1\PM03.AssemblyInfoInputs.cache
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\obj\Debug\netcoreapp3.1\PM03.AssemblyInfo.cs
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\obj\Debug\netcoreapp3.1\PM03.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\bin\Debug\netcoreapp3.1\PM03.exe
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\bin\Debug\netcoreapp3.1\PM03.deps.json
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\bin\Debug\netcoreapp3.1\PM03.runtimeconfig.json
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\bin\Debug\netcoreapp3.1\PM03.runtimeconfig.dev.json
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\bin\Debug\netcoreapp3.1\PM03.dll
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\bin\Debug\netcoreapp3.1\PM03.pdb
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\obj\Debug\netcoreapp3.1\PM03.dll
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\obj\Debug\netcoreapp3.1\PM03.pdb
+D:\Users\stu-pksp118\Desktop\PM03\src\PM03\PM03\obj\Debug\netcoreapp3.1\PM03.genruntimeconfig.cache
